@@ -1,0 +1,5 @@
+export const Login = 'Login'
+export const LogOut = 'LogOut'
+export const UserInfo = 'UserInfo'
+export const TaskList = 'TaskList'
+export const ProjectList = 'ProjectList'
